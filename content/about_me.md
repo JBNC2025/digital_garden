@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2025-11-08
-draft: true
+draft: false
 ---
 
 A little about me: I recently joined the [MLOps](https://aws.amazon.com/what-is/mlops/) division at AWS, building out cloud infrastructure for the modern, AI era. Before that, I worked as a Product Manager for MuleSoft, a post-acquistion company under Salesforce.
