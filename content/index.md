@@ -8,6 +8,7 @@ Welcome to Semantic Gardens, my [==second-brain==](https://www.buildingasecondbr
 
 ## Contents
 
+- [About Me](about_me.md)
 - [Test](test.md)
 
 <!-- See the [documentation](https://quartz.jzhao.xyz) for how to get started. -->
