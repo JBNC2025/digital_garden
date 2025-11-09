@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Semantic Gardens
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my digital garden. Build with [Quartz 4](https://quartz.jzhao.xyz)
+This page is a WIP, but for now I'll link a page [here](Test.md) to make sure the graph is working.
