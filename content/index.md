@@ -11,11 +11,11 @@ Welcome to Semantic Gardens, my [==second-brain==](https://www.buildingasecondbr
 - [About Me](about_me.md)
 - [Test](test.md)
 
-### Deep Learning Terms
+<!-- ### Deep Learning Terms
 
-[Activation](Activation.md)
-[AGI (Artificial General Intelligence)](AGI (Artificial General Intelligence.md))
-Architecture
+- [Activation](Activation.md)
+- [AGI (Artificial General Intelligence)](AGI (Artificial General Intelligence.md))
+- Architecture
 Artificial Neural Network
 Base LLM
 Embeddings
@@ -39,6 +39,6 @@ Scaling
 The Scaling Hypothesis
 Token
 Transformer
-Weight
+Weight -->
 
 <!-- See the [documentation](https://quartz.jzhao.xyz) for how to get started. -->
