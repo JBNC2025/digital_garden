@@ -11,4 +11,34 @@ Welcome to Semantic Gardens, my [==second-brain==](https://www.buildingasecondbr
 - [About Me](about_me.md)
 - [Test](test.md)
 
+### Deep Learning Terms
+
+[[Activation]]
+AGI (Artificial General Intelligence)
+Architecture
+Artificial Neural Network
+Base LLM
+Embeddings
+Floating Point Number
+Floating Point Operation (FLOp)
+Hyperparameter
+Instruction-Tuned LLM
+Large Language Model
+Learning
+LLM Agent
+Loss
+Model
+Neural Network
+Parameter
+Post-Training
+Pre-Training
+Prompt
+RHF'D LLM
+Scaffolded LLM
+Scaling
+The Scaling Hypothesis
+Token
+Transformer
+Weight
+
 <!-- See the [documentation](https://quartz.jzhao.xyz) for how to get started. -->
