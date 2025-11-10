@@ -1,0 +1,1 @@
+The value a [[Model]] produces when processing a specific query, which depends on the weights it has learned during training and the inputs provided by the user; what gets input into the next layer of neurons in the model. Metaphorically, activations are like the electrical and neurotransmitter activity in the brain, or the model's active thoughts, associations, and goals.
