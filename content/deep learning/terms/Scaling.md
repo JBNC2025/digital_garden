@@ -1,0 +1,1 @@
+Massively increasing a model architecture's size (measured in parameters), the optimization used to train it (measured in FLOPs), the data used for training it (measured in bytes), or the computation required for each query (measured in tokens).

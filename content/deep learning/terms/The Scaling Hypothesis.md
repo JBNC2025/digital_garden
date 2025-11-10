@@ -1,0 +1,1 @@
+The idea that increasing the size, training data, and computational inputs of LLMs will be sufficient to achieve AGI.

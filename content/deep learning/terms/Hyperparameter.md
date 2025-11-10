@@ -1,0 +1,1 @@
+A parameter that governs how a model is trained or operates. It's "hyper" because it governs the parameters (weights) of the model.

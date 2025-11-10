@@ -1,0 +1,1 @@
+The process of adjusting weights in a model after it processes data, enabling improved predictions based on past performance.

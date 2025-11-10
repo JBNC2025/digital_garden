@@ -1,0 +1,1 @@
+A neural network trained on text data to produce a probabilistic model of language. The term has become a misnomer in recent years. as LLMs are now also trained on audio, images, and other modalities, such as amino-acid sequences. The leading LLMs are based on the Transformer architecture.

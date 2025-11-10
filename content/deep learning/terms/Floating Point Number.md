@@ -1,0 +1,1 @@
+A computer representation of a real number, for example 0.00000024361.

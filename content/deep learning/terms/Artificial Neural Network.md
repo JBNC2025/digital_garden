@@ -1,0 +1,3 @@
+A type of computer separated into three parts: the input layer, where data enters; the hidden layers, where most computation occurs; and the output layer, where predictions are made.
+Each layer contains many units (10,000, for example, interconnected by many weights.
+Unlike traditional computers, neural networks can learn programs by automatically adjusting these weights. The concept dates back to the 1940s, and was rebranded in the 21st century as deep learning.

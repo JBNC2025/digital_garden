@@ -1,0 +1,1 @@
+An RLHF'd LLM equipped with tools like chain-of-thought prompting, web search, vector data-bases, symbolic solvers, code interpreters, episodic memory, and search and self-criticism over possible responses. Also known as an augmented language model. Most systems available for public use are scaffolded LLMs.

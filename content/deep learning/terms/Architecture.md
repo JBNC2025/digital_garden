@@ -1,0 +1,1 @@
+The structure of a model, including how its components connect to one another and how it is trained.

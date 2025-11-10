@@ -1,0 +1,1 @@
+The process of adapting the pretrained model to be more of an assistant (instruction tun-ing), or to make it more professional, to make it less toxic, or to satisfy some other criteria (reinforcement learning from human prefer-ences) by training further on data from chat sessions or rankings.

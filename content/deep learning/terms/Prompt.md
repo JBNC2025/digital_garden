@@ -1,0 +1,1 @@
+The input provided by the user, typically a query or instruction that the model responds to.

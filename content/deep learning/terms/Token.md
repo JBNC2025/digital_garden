@@ -1,0 +1,1 @@
+The basic unit of data in an LLM, typically representing roughly one word. However, Transformers can be trained to emit more than just text tokens. Models can also output actions (such as searching the web) and pixels (as in image generators), among many other data types.

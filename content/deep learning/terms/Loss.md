@@ -1,0 +1,1 @@
+A measure of how far a prediction is from the truth. In LLMs, "loss" is typically shorthand for the average autoregressive loss: the average error the model makes when predicting the next word in previously unseen documents.

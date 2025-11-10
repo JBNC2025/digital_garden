@@ -1,0 +1,2 @@
+A [[Parameter]] that defines the strength of the connection between two units in a neural network; where the algorithms performed on inputs to produce outputs are defined.
+Metaphorically, weights are like the synapses in the brain.

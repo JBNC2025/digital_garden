@@ -1,0 +1,1 @@
+The process of creating an initial LLM, setting the values of its weights. During pretraining, the model is exposed to vast amounts of data and learns through trial and error by predicting the next token in a document.

@@ -1,0 +1,1 @@
+A modern neural network architecture notable for its parallel design and ability to learn context and relationships using a mechanism called self-attention. This attention mechanism dynamically assigns varying importance to different parts of the input data.

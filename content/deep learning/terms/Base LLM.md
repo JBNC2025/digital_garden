@@ -1,0 +1,1 @@
+A model trained on a vast corpus of human text (as well as audio and images) in a semi-supervised manner by predicting the next word in a document and being updated in proportion to the magnitude of its error in predicting the next token. Technically, this refers to a pre-trained, decoder-only Transformer.

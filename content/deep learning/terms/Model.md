@@ -1,0 +1,1 @@
+The Al system produced by training an architecture on data. A program that has learned to perform specific tasks.

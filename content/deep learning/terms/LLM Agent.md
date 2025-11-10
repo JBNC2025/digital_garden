@@ -1,0 +1,2 @@
+A system that can solve open-ended or long-horizon tasks that require planning and executing sequences of actions and perceptions.
+A simple example is placing an LLM inside a prompt loop that continues until the task is completed. An LLM agent is sometimes also referred to as a scaffolded LLM, confusingly.

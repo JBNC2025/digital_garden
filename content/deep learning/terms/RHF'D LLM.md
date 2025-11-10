@@ -1,0 +1,1 @@
+An instruction-tuned LLM that has been further refined using reinforcement learning from human feedback (RLHF). This process involves optimizing the model based on a learned representation of human preferences to reduce harmful, offensive, commercially sensitive, or inhuman responses.

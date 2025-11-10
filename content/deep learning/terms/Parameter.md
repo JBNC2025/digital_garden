@@ -1,0 +1,1 @@
+A variable that helps define a system or a transformation applied to input data; a dimension in model space. In machine learning, a numerical value that is adjusted iteratively during model training to encode patterns learned from the data.

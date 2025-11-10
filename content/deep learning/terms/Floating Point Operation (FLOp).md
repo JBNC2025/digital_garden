@@ -1,0 +1,1 @@
+An arithmetic operation performed on a floating-point number. Updating a large model on a single data point might require billions of FLOPs. This measurement is often confused with FLOP/S, which measures the rate of float-ing-point operations per second.
