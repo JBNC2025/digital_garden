@@ -8,6 +8,7 @@ Welcome to Semantic Gardens, my [==second-brain==](https://www.buildingasecondbr
 
 ## Contents
 
+- [Why Michael Burry is Wrong](Michael_Burry.md)
 - [About Me](about_me.md)
 - [Test](test.md)
 
