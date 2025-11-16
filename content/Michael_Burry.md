@@ -1,6 +1,5 @@
 ---
-title: An Opinionated Post on Why Michael Burry is Wrong, Depreciation Schedules, and Misadventures of Short Selling
-date: 2025-11-15
+title: Why Michael Burry is Wrong
 tags: blog
 author: Joe
 ---
@@ -16,9 +15,7 @@ So how does this periodic assessment work? Let's assume Google makes $70 billion
 What Michael Burry is saying is the [hyperscalers](https://www.redhat.com/en/topics/cloud-computing/what-is-a-hyperscaler) have extended the depreciation schedule, or the useful life of their data centers, by roughly 2x, which cuts the operating costs in half when they report it and, in turn, inflates their earnings. Using this logic, Burry's claim is that they're cooking the books. That's all well and good, except for the fact that Google addressed this change in Q1 of 2021, where they said their servers are now going from 3 to 4 years.
 
 
-<p align="center">
   <img src="https://github.com/JBNC2025/digital_garden/blob/v4/content/G5aAlLHXEAAsQ77.png" height="500" width="500">
-</p>
 
 The chart referenced above from Michel Burry's [twitter](https://x.com/michaeljburry/status/1987918650104283372), shows the combination of servers and networking equipment. Separately, in 2021, Google took networking equipment from 3 to 5 years and then in 2023, from 5 to 6 years. This is a result of the effort where they did an analysis, so why the sudden change? What happened? 
 
