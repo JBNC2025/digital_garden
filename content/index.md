@@ -6,7 +6,7 @@ author: Joe
 
 Welcome to Semantic Gardens, my [==second-brain==](https://www.buildingasecondbrain.com) and [digital garden](https://maggieappleton.com/garden-history). This site is a WIP, so bear with me as I iterate and improve.
 
-## Contents
+# Contents
 
 - [Why Michael Burry is Wrong](Michael_Burry.md)
 - [About Me](about_me.md)
